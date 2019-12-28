@@ -1,0 +1,27 @@
+{
+  "name": "Patterns",
+  "version": "1.0.0",
+  "description": "**Паттерн проектирования** — это часто встречающееся решение определённой проблемы при проектировании архитектуры программ.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "eslint": "^5.12.0",
+    "npm": "^6.5.0",
+    "tslint": "^5.12.1",
+    "typescript": "^3.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergy-Dey/Patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergy-Dey/Patterns/issues"
+  },
+  "homepage": "https://github.com/Sergy-Dey/Patterns#readme"
+}
